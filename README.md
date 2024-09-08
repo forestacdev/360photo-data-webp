@@ -1,2 +1,2 @@
-# 360Photo-data
+# 360photo-data
  
